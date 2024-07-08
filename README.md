@@ -14,5 +14,5 @@ Beschreibung des Spiels:
  
  Du baust Truppen um dan verschiede Level zu absolvieren.
 
- Donwload [Hier](https://github.com/kevokopter/Spiel_Augustina/releases/tag/v0.1.0-alpha)
+ Donwload [Hier](https://github.com/kevokopter/augustina/releases)
 
