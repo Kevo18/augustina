@@ -20,4 +20,4 @@ Beschreibung des Spiels:
 
  Das wars :)
 
- Hier gehts zur Jar-Datei [Hier](https://github.com/kevokopter/augustina/releases)
+ Hier gehts zur Jar-Datei [Hier](https://github.com/Kevo18/augustina/releases)
