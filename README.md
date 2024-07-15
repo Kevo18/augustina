@@ -19,3 +19,5 @@ Beschreibung des Spiels:
  Du baust Truppen um dan verschiede Level zu absolvieren.
 
  Das wars :)
+
+ Hier gehts zur Jar-Datei [Hier](https://github.com/kevokopter/Spiel_Augustina/releases/tag/v0.1.0-alpha)
