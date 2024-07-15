@@ -20,4 +20,4 @@ Beschreibung des Spiels:
 
  Das wars :)
 
- Hier gehts zur Jar-Datei [Hier](https://github.com/kevokopter/Spiel_Augustina/releases/tag/v0.1.0-alpha)
+ Hier gehts zur Jar-Datei [Hier](https://github.com/kevokopter/augustina/releases)
