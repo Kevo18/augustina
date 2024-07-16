@@ -1,4 +1,4 @@
-# Spiel_Augustina
+# 
 ERSTER VERSUCH ein eigenes SPIEL zu PROGRAMMIEREN
 
 Alles ist noch in der Entwicklung (auch die Lesbarkeit des CODES!)
