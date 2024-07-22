@@ -7,4 +7,4 @@ Um die jar-Datei auszuführen wird eine " Java Runtime Environment " benötigt
 
 (Für die Programmierung wurde JDK 22 benutzt)
 
- [Hier](https://github.com/Kevo18/augustina/releases)
+
